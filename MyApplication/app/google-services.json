@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41659983636",
+    "firebase_url": "https://challenge-2-10607.firebaseio.com",
+    "project_id": "challenge-2-10607",
+    "storage_bucket": "challenge-2-10607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41659983636:android:7d09e200efaa13bd",
+        "android_client_info": {
+          "package_name": "com.marissalara.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41659983636-76puda8pc8e0t0apoadhavujf4nf3min.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marissalara.myapplication",
+            "certificate_hash": "a122d8e1ec3af96416f790a7a89c1e739ed752ee"
+          }
+        },
+        {
+          "client_id": "41659983636-qhpmm0jg3u4dthign8ule3nha7m4jobd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfL56PgoM-_MElp0cpj8Wn-QxVOnl-GgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41659983636-qhpmm0jg3u4dthign8ule3nha7m4jobd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
